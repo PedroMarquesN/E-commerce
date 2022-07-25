@@ -1,0 +1,103 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    width: 1440px;
+    height: 100%;
+}
+header{
+    width: 1440px;
+    height: 94px;
+}
+.container-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.nome-logo{
+    
+    gap: 10px;
+    display: flex;
+    margin-left: 40px;
+    align-items: center;
+}
+.ul-logo{
+    display: flex;
+    margin-right: 140px;
+}
+.imagem-perfil{
+    width: 1350px;
+    height: 375px;
+}
+.promocao{
+        width: 1350px;
+        margin-top: 15px;
+        display: flex;
+        justify-content: space-between;
+        margin-right: 140px;
+}
+.promocao-h2{
+    margin-left: 40px;
+    font-weight: 700px;
+    font-size: 20px;
+}
+.quantidade{
+    margin-right: 30px;
+}
+
+
+
+.imagem-card{
+}
+.imagem-produto{
+    width: 303px;
+    height: 303px;
+}
+
+.ul-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.imagem-cardproduto{
+    width: 30%;
+    height: 393px;
+}
+section{
+    margin-left: 60px;
+    margin-top: 57px;
+}
+a{
+    color: black;
+}
+.container-rodape{
+    width: 1280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 60px;
+}
+button{
+    background-color: #5CA720;
+    color: white;
+    width: 152px;
+    height: 40px;
+}
+input{
+    width: 397px;
+    height: 40px;
+}
+
+.pagamentos{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    display: flex;
+    align-items: center;
+    margin-left: 60px;
+    margin-right: 100px;
+}
+.icones{
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
